@@ -4,6 +4,7 @@
 
 example for the config:
 
+
 [task0]
 
 name = open VSCode //the name for the task
